@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    width: 100%;
+    background-color: black;
+    height: 100px;
+
+}
+ul li{
+    display: inline;
+    text-decoration: none;
+
+}
+ul li a{
+    color: red;
+    font-size: 40px;
+    float: left;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul li a:hover{
+    color: bisque;
+}
